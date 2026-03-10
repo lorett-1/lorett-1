@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou o [Lorenzo]! 👋
 
-<!--
-**lorett-1/lorett-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io" alt="Estudante">
+  <img src="https://img.shields.io" alt="3º Ano ADS">
+  <img src="https://img.shields.io" alt="Lógica">
+</p>
 
-Here are some ideas to get you started:
+Sou um entusiasta da tecnologia, atualmente no **3º ano de Análise e Desenvolvimento de Sistemas (ADS)**. Meu foco está em unir uma base sólida em **lógica avançada e matemática** com o desenvolvimento de software prático. Tenho experiência prática na área de informática, com facilidade em aprender novas linguagens e resolver problemas complexos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim
+- 🎓 Estudante de ADS (Análise e Desenvolvimento de Sistemas).
+- 🧠 Apaixonado por algoritmos, lógica avançada e matemática aplicada.
+- 💻 Experiência em suporte de TI e desenvolvimento.
+- 🇬🇧 Inglês técnico (em evolução).
+- 🎯 Buscando oportunidades em desenvolvimento de software (backend/fullstack).
+
+---
+
+### 🛠 Habilidades Técnicas
+
+**Linguagens e Banco de Dados:**
+<p>
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+**Ferramentas e Lógica:**
+<p>
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+---
+
+### 📈 Estatísticas do GitHub
+<p>
+  <img src="https://github-readme-stats.vercel.app" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app" alt="Langs" />
+</p>
+
+---
+
+### 📫 Entre em Contato
+- 💼 LinkedIn: [Seu Link do LinkedIn]
+- 📧 E-mail: [Seu E-mail]
+
+> "A matemática é a linguagem com que Deus escreveu o universo." - Galileu Galilei (E eu uso ela para criar códigos!)
