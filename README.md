@@ -1,10 +1,10 @@
 # Olá, eu sou o [Lorenzo]! 👋
 
-<p align="left">
-  <"Estudante">
-  <"3º Ano ADS">
-  <"Lógica">
-</p>
+**Status:** 🎓 Estudante  
+**Formação:** 💻 3º Ano de ADS  
+**Expertise:** 🧠 Lógica Avançada & Matemática  
+**Idioma:** 🇺🇸 Inglês (Básico/Intermediário)
+
 
 Sou um entusiasta da tecnologia, atualmente no **3º ano de Análise e Desenvolvimento de Sistemas (ADS)**. Meu foco está em unir uma base sólida em **lógica avançada e matemática** com o desenvolvimento de software prático. Tenho experiência prática na área de informática, com facilidade em aprender novas linguagens e resolver problemas complexos.
 
