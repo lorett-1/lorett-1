@@ -1,9 +1,9 @@
 # Olá, eu sou o [Lorenzo]! 👋
 
 <p align="left">
-  <img src="https://img.shields.io" alt="Estudante">
-  <img src="https://img.shields.io" alt="3º Ano ADS">
-  <img src="https://img.shields.io" alt="Lógica">
+  <"Estudante">
+  <"3º Ano ADS">
+  <"Lógica">
 </p>
 
 Sou um entusiasta da tecnologia, atualmente no **3º ano de Análise e Desenvolvimento de Sistemas (ADS)**. Meu foco está em unir uma base sólida em **lógica avançada e matemática** com o desenvolvimento de software prático. Tenho experiência prática na área de informática, com facilidade em aprender novas linguagens e resolver problemas complexos.
@@ -19,35 +19,7 @@ Sou um entusiasta da tecnologia, atualmente no **3º ano de Análise e Desenvolv
 
 ---
 
-### 🛠 Habilidades Técnicas
-
-**Linguagens e Banco de Dados:**
-<p>
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
-
-**Ferramentas e Lógica:**
-<p>
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
-
----
-
-### 📈 Estatísticas do GitHub
-<p>
-  <img src="https://github-readme-stats.vercel.app" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app" alt="Langs" />
-</p>
-
----
-
 ### 📫 Entre em Contato
-- 💼 LinkedIn: [Seu Link do LinkedIn]
-- 📧 E-mail: [Seu E-mail]
+- 📧 E-mail: [Lucas.lorenzo208@gmail.com]
 
 > "A matemática é a linguagem com que Deus escreveu o universo." - Galileu Galilei (E eu uso ela para criar códigos!)
